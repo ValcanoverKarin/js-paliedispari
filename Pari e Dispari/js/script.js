@@ -9,4 +9,6 @@
 var pariODispari = prompt('scegli pari o dispari');
 console.log(pariODispari);
 
-
+//chiedo di inserire un numero da 1 a 5 (numero)
+var numeroUtente = parseInt(prompt('Inserisci un numero tra 1 e 5'));
+console.log(numeroUtente);
